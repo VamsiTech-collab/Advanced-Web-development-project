@@ -9,3 +9,9 @@ User Registration and Authentication: Users can sign up and log in to their acco
 
 # Cart and Ordering: 
 Users can add dishes to their cart and proceed to place orders seamlessly. They can review their orders, modify quantities, and choose delivery options. Integration with a payment gateway allows for secure online transactions.
+
+
+![Food (2)](https://github.com/VamsiTech-collab/Advanced-Web-development-project/assets/142090006/955c58a0-378c-43f4-bfd7-a64bc37c6f9e)
+
+# Admin Panel: 
+The admin panel allows authorized administrators to manage the menu by adding new dishes. They can input dish details such as name, description, ingredients, pricing, and images. The panel provides a user-friendly interface for streamlined menu managemen
